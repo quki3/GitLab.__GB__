@@ -42,4 +42,25 @@ Nombres reservados para los grupos, las palabras reservadas son: https://docs.gi
 
 
 #  labels
+## se usan para describir algun comportamiento a tener en cuenta en el codigo
+(Guidance in the use of these Imperatives
+
+   Imperatives of the type defined in this memo must be used with care
+   and sparingly.  In particular, they MUST only be used where it is
+   actually required for interoperation or to limit behavior which has
+   potential for causing harm (e.g., limiting retransmisssions)  For
+   example, they must not be used to try to impose a particular method
+   on implementors where the method is not required for
+   interoperability.)
+- Security Considerations
+
+   These terms are frequently used to specify behavior with security
+   implications.  The effects on security of not implementing a MUST or
+   SHOULD, or doing something the specification says MUST NOT or SHOULD
+   NOT be done may be very subtle. Document authors should take the time
+   to elaborate the security implications of not following
+   recommendations or requirements as most implementors will not have
+   had the benefit of the experience and discussion that produced the
+   specification.
+## para etiquetar tareas a los diferentes grupos
 <a href="https://www.ietf.org/rfc/rfc2119.txt">Best Current Practice</a>
