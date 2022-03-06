@@ -71,4 +71,13 @@ Nombres reservados para los grupos, las palabras reservadas son: https://docs.gi
 
 ## list
 
+## service desk
+El Service Desk es la capacidad que te da Gitlab de abrir issues a través de correo electrónico.
 
+    Permite dar soporte a través de email a tus clientes directamente desde Gitlab.
+    Permite que el equipo no técnico reporte bugs o abra issue sin necesidad de que tengan una cuenta de Gitlab.
+    Cuando se activa el servicio, se genera un email único para el proyecto.
+## merges
+- Los merge request, es la puerta entre el código de desarrollo y producción.
+- En merge request es necesario saber si se corrigieron los issues, si se están introduciendo vulnerabilidades de seguridad, como es la performance de la aplicación.
+- Es importante que los merge request sean atómicos, y no se encuentren ligados a varios archivos, con el fin de poder realizar revisiones a profundidad.
