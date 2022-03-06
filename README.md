@@ -81,3 +81,6 @@ El Service Desk es la capacidad que te da Gitlab de abrir issues a través de co
 - Los merge request, es la puerta entre el código de desarrollo y producción.
 - En merge request es necesario saber si se corrigieron los issues, si se están introduciendo vulnerabilidades de seguridad, como es la performance de la aplicación.
 - Es importante que los merge request sean atómicos, y no se encuentren ligados a varios archivos, con el fin de poder realizar revisiones a profundidad.
+
+## templates
+<a href="https://platzi.com/clases/1526-gitlab/19292-profundizando-en-merge-requests/">templates</a>
