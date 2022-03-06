@@ -64,3 +64,11 @@ Nombres reservados para los grupos, las palabras reservadas son: https://docs.gi
    specification.
 ## para etiquetar tareas a los diferentes grupos
 <a href="https://www.ietf.org/rfc/rfc2119.txt">Best Current Practice</a>
+
+## issues
+
+## boards
+
+## list
+
+
