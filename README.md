@@ -87,3 +87,4 @@ El Service Desk es la capacidad que te da Gitlab de abrir issues a través de co
 
 ## configurar CI angular
 <a href="https://platzi.com/clases/1526-gitlab/19296-automatizacion-con-gitlab-cl/">CI angular</a>
+<a href="https://docs.gitlab.com/ee/ci/examples/index.html">ejemplos diferentes lenguajes</a>
